@@ -1,7 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Crop-Yield-Prediction-based-on-Indian-Agriculture
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+The main objective of this project is to predict crop-yield which can be extremely useful to farmers in planning for harvest and sale of grain. This project focuses on implementing a machine learning algorithm that gives better prediction of suitable crop for the corresponding region and crop season in our country using previously collected datasets. This project aims to predict yields based on location, crop type, temperature, humidity, and area of agricultural field data. 
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
